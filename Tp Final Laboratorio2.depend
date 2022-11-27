@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1669522377 source:c:\users\usuario\utn\tp final laboratorio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"FuncionesPartidos.h"
+
+1669010727 c:\users\usuario\utn\tp final laboratorio2\tpfinal.h
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+
+1669011407 source:c:\users\usuario\utn\tp final laboratorio2\tpfinal.c
+	"TPfinal.h"
+
+1669518388 source:c:\users\silva\onedrive\escritorio\actualizacion tp\tp final laboratorio2\funcionespartidos.c
+	"FuncionesPartidos.h"
+
+1669431603 c:\users\silva\onedrive\escritorio\actualizacion tp\tp final laboratorio2\funcionespartidos.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+
+1669522377 source:c:\users\silva\onedrive\escritorio\actualizacion tp\tp final laboratorio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"FuncionesPartidos.h"
+
+1669522993 source:c:\users\usuario\utn\tp final laboratorio2\funcionespartidos.c
+	"FuncionesPartidos.h"
+
+1669431603 c:\users\usuario\utn\tp final laboratorio2\funcionespartidos.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+
